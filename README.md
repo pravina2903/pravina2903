@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravina2903&label=Profile%20views&color=0e75b6&style=flat" alt="pravina2903" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravina2903" alt="pravina2903" /></a> </p>
-<img src="[smiley.gif](https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 - 🔭 I’m currently working on [My](SkillSets)
 
 - 🌱 I’m currently learning **on concepts of Full Stack Java Development**
