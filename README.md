@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pravina.kawade29@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1c0TfLeGMFgek4xkQlhLtLguRSZoZCFA6/view?usp=sharing](https://drive.google.com/file/d/1c0TfLeGMFgek4xkQlhLtLguRSZoZCFA6/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1JqvpMYzTYDaLp7KMMyPpWz_hPWzsbfs_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
