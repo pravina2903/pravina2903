@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Pravina Kawade</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=pravina2903&label=Profile%20views&color=0e75b6&style=flat](https://pravinakawade.netlify.app/)" alt="pravina2903" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1FVUrWCcCcyuceIyv54MC1zVA67z3SF_l/view?usp=drive_link" alt="pravina2903" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 
 - 🔭 I’m currently working on **My Skillsets**
