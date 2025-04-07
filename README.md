@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **concepts of Full Stack Java Development**
 
-- 👨‍💻 You can explore my portfolio here [https://pravinakawade.netlify.app/](https://pravinakawade.netlify.app/)
+- 👨‍💻 You can explore my portfolio here : [https://pravinakawade.netlify.app/](https://pravinakawade.netlify.app/)
 
-- 📫 How to reach me **pravina.kawade29@gmail.com**
+- 📫 How to reach me : **pravina.kawade29@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1c0TfLeGMFgek4xkQlhLtLguRSZoZCFA6/view?usp=sharing](https://drive.google.com/file/d/1c0TfLeGMFgek4xkQlhLtLguRSZoZCFA6/view?usp=sharing)
+- 📄 Resume : [https://drive.google.com/file/d/1c0TfLeGMFgek4xkQlhLtLguRSZoZCFA6/view?usp=sharing](https://drive.google.com/file/d/1c0TfLeGMFgek4xkQlhLtLguRSZoZCFA6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
