@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Pravina Kawade</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate JAVA DEVELOPER from Pune,India</h3>
 
 <p align="left"> <a href"https://drive.google.com/file/d/1FVUrWCcCcyuceIyv54MC1zVA67z3SF_l/view?usp=drive_link"></p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
