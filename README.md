@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravina2903&label=Profile%20views&color=0e75b6&style=flat" alt="pravina2903" /> </p>
 
-- 🔭 I’m currently working on **My Skillsets**
+- 🔭 I’m enhancing my skills in **Full Stack Java Development**
 
-- 🌱 I’m currently learning **concepts of Full Stack Java Development**
+- 🌱I’m focused on mastering **concepts of Full Stack Java Development**
 
 - 👨‍💻 You can explore my portfolio here : [https://pravinakawade.netlify.app/](https://pravinakawade.netlify.app/)
 
