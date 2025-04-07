@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Pravina Kawade</h1>
 <h3 align="center">A passionate JAVA DEVELOPER from Pune,India</h3>
+(img align="right" alt="Coding" width="400" src="https://kavikalvi.freeweb.co.in/wp-content/uploads/2023/08/images-480x304.jpeg")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravina2903&label=Profile%20views&color=0e75b6&style=flat" alt="pravina2903" /> </p>
 
