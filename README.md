@@ -6,7 +6,7 @@
 
 - 🔭 I’m enhancing my skills in **Full Stack Java Development**
 
-- 🌱I’m focused on mastering **concepts of Full Stack Java Development**
+- 🌱 I’m focused on mastering **concepts of Full Stack Java Development**
 
 - 👨‍💻 You can explore my portfolio here : [https://pravinakawade.netlify.app/](https://pravinakawade.netlify.app/)
 
