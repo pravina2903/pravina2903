@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **pravina.kawade29@gmail.com**
 
-- 📄 Resume : [https://drive.google.com/file/d/1dIUJ7NjgjY5PkmJeyWLPLV8Cm6e33JnG/view?usp=drive_link)
+- 📄 Resume : [https://drive.google.com/file/d/1sCQjXmCOAHyHx9pk9zwWTMxLymMWPWB8/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
