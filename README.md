@@ -36,5 +36,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,cs,css,dotnet,git,html,java,javascript,mysql,postman,python,spring" />
+  <img src="https://skillicons.dev/icons?i=angular,cs,css,dotnet,git,html,java,javascript,mysql,postman,python,spring" height="35"/>
 </p>
